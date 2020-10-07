@@ -1,0 +1,14 @@
+C:\Users\Melqz\UnicivDemo\Uniciv.Api\bin\Debug\netcoreapp2.2\Uniciv.Api.deps.json
+C:\Users\Melqz\UnicivDemo\Uniciv.Api\bin\Debug\netcoreapp2.2\Uniciv.Api.runtimeconfig.json
+C:\Users\Melqz\UnicivDemo\Uniciv.Api\bin\Debug\netcoreapp2.2\Uniciv.Api.runtimeconfig.dev.json
+C:\Users\Melqz\UnicivDemo\Uniciv.Api\bin\Debug\netcoreapp2.2\Uniciv.Api.dll
+C:\Users\Melqz\UnicivDemo\Uniciv.Api\bin\Debug\netcoreapp2.2\Uniciv.Api.pdb
+C:\Users\Melqz\UnicivDemo\Uniciv.Api\obj\Debug\netcoreapp2.2\Uniciv.Api.csprojAssemblyReference.cache
+C:\Users\Melqz\UnicivDemo\Uniciv.Api\obj\Debug\netcoreapp2.2\Uniciv.Api.csproj.CoreCompileInputs.cache
+C:\Users\Melqz\UnicivDemo\Uniciv.Api\obj\Debug\netcoreapp2.2\Uniciv.Api.RazorAssemblyInfo.cache
+C:\Users\Melqz\UnicivDemo\Uniciv.Api\obj\Debug\netcoreapp2.2\Uniciv.Api.RazorAssemblyInfo.cs
+C:\Users\Melqz\UnicivDemo\Uniciv.Api\obj\Debug\netcoreapp2.2\Uniciv.Api.AssemblyInfoInputs.cache
+C:\Users\Melqz\UnicivDemo\Uniciv.Api\obj\Debug\netcoreapp2.2\Uniciv.Api.AssemblyInfo.cs
+C:\Users\Melqz\UnicivDemo\Uniciv.Api\obj\Debug\netcoreapp2.2\Uniciv.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Melqz\UnicivDemo\Uniciv.Api\obj\Debug\netcoreapp2.2\Uniciv.Api.dll
+C:\Users\Melqz\UnicivDemo\Uniciv.Api\obj\Debug\netcoreapp2.2\Uniciv.Api.pdb
