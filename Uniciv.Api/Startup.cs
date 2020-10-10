@@ -19,6 +19,7 @@ namespace Uniciv.Api
         {
             services.AddMvc();
 
+            // Utilizando o modo Singleton
             services.AddSingleton<IFundoCapitalRepository, FundoCapitalRepository>(); 
         }
 
@@ -27,11 +28,12 @@ namespace Uniciv.Api
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
 
+                app.UseDeveloperExceptionPage();
             }
 
             app.UseCors(config => {
+
                 config.AllowAnyHeader();
                 config.AllowAnyMethod();
                 config.AllowAnyOrigin();
