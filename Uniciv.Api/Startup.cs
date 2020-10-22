@@ -21,6 +21,7 @@ namespace Uniciv.Api
 
             // Utilizando o modo Singleton
             services.AddSingleton<IFundoCapitalRepository, FundoCapitalRepository>(); 
+           
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
